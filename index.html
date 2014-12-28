@@ -5,5 +5,5 @@ layout: post
 {% for post in site.posts %}
 <img src="{{ post.cover }}" width="100">
 
-<a href=".{{ post.url }}">{{post.title}}</a><br>
+<a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a><br>
 {% endfor %}
