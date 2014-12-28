@@ -1,8 +1,8 @@
 ---
-layout:post
-Title: Learning Jekyll at Muan's
+layout: post
+title: Learning Jekyll at Muan's
 ---
 
-Today is a wonderful day
-Thank you prof Muan for teaching us Jekyll
+Today is a wonderful day<br>
+Thank you prof Muan for teaching us Jekyll<br>
 let's go have tebanyakkkkki!
